@@ -1,0 +1,11 @@
+{
+  "name": "AG",
+  "version": "1.0.0",
+  "description": "NFT ",
+  "author": "AG",
+  "dependencies": {
+ 
+    "dotenv": "1.0.0",
+    "truffle": "1.0.0"
+  }
+}
